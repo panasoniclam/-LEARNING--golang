@@ -1,1 +1,1 @@
-module [LEARNING]-golang
+module github.com/panasoniclam/golang-basic
